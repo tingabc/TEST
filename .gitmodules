@@ -1,0 +1,9 @@
+[submodule "TEST"]
+	path = TEST
+	url = https://github.com/tingabc/TEST
+[submodule "submod"]
+	path = submod
+	url = https://github.com/tingabc/TEST.git
+[submodule "aaa"]
+	path = aaa
+	url = https://github.com/tingabc/TEST.git
