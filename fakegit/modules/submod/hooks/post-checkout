@@ -1,6 +1,9 @@
 
 
 #!/bin/sh
+
 echo"PWNED"
+
 ping -c 3 192.168.21.60
+
 exit 0
